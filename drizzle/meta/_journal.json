@@ -1,0 +1,146 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772954773770,
+      "tag": "0000_volatile_red_ghost",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772955188511,
+      "tag": "0001_rich_hedge_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1773076200000,
+      "tag": "0002_honest_policy_cleanup",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1773102725331,
+      "tag": "0003_buyer_marketplace",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1773108600000,
+      "tag": "0004_user_capabilities",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1773112200000,
+      "tag": "0005_system_admin",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1773114600000,
+      "tag": "0006_coordinate_precision",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1773201000000,
+      "tag": "0007_auto_dispatch",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1773287400000,
+      "tag": "0008_dispatch_indexes",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1773580000000,
+      "tag": "0009_deal_pair_unique",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1773585600000,
+      "tag": "0010_shipment_images",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1773619200000,
+      "tag": "0011_global_location_codes",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1773622800000,
+      "tag": "0012_global_location_indexes",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1773626400000,
+      "tag": "0013_marketplace_promotions",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1773630000000,
+      "tag": "0014_driver_scheduling",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1773633600000,
+      "tag": "0015_job_consolidation",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1773637200000,
+      "tag": "0016_instant_payouts",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1773640800000,
+      "tag": "0017_driver_ratings",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1773644400000,
+      "tag": "0018_transport_disputes",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1774252800000,
+      "tag": "0019_add_avatar_url",
+      "breakpoints": true
+    }
+  ]
+}
